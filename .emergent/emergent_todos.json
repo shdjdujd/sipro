@@ -1,0 +1,34 @@
+[
+  {
+    "content": "Restore repo + env + deps + seed + login verified",
+    "status": "completed"
+  },
+  {
+    "content": "Fix gate regressions (ux_audit, verify_39b, verify_36, verify_37)",
+    "status": "completed"
+  },
+  {
+    "content": "40c: Nav restructure 31→26 + hub /build + legacy aliases + in-app nav map",
+    "status": "completed"
+  },
+  {
+    "content": "40d: Tasks/Complaints/AR → DataTable pro; finance tabs in URL; KPI drill-down",
+    "status": "completed"
+  },
+  {
+    "content": "40e: verify_ia_v2.py gate + mutasi_40_ia.py (20/20)",
+    "status": "completed"
+  },
+  {
+    "content": "Run bash scripts/run_all_gates.sh → 23/23 PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Update plan.md + test_result.md + CODEBASE_MAP.md",
+    "status": "completed"
+  },
+  {
+    "content": "End-to-end testing via testing_agent_v3 (multi-role) + fix all findings",
+    "status": "in_progress"
+  }
+]
